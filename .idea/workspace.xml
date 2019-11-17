@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a0095436-323c-48b8-b0b4-92d3b55efa7d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/BigDataJava.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/BigDataJava.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Base.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Base.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/docusum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/docusum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/Base.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Base.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/docusum.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/docusum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/runner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/runner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/text/article.txt" beforeDir="false" afterPath="$PROJECT_DIR$/text/article.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />

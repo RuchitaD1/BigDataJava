@@ -194,12 +194,13 @@ class Base {
         //double percent = (new Scanner(System.in).nextDouble()) / 100;
 
         int numToDisplay = 5;
-
+        String ans = "";
         for (int i = 0; i < numToDisplay; i++) {
             SentenceRanking item = sentences.peek();
-            System.out.println(item.getRank() + ": " + item.getSentence());
+            ans += item.getSentence()+"\n";
             sentences.remove();
         }
+        System.out.println(ans);
 
     }
 
