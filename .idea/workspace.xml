@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a0095436-323c-48b8-b0b4-92d3b55efa7d" name="Default Changelist" comment="" />
+    <list default="true" id="a0095436-323c-48b8-b0b4-92d3b55efa7d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/BigDataJava.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/BigDataJava.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Base.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Base.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/docusum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/docusum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Base.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Base.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/docusum.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/docusum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/runner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/runner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/article.txt" beforeDir="false" afterPath="$PROJECT_DIR$/text/article.txt" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +27,12 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1TinGBAbc8fwgKQ1gdpXOw5Lij3" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -29,6 +44,20 @@
         </RuleState>
       </list>
     </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="docusum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="docusum" />
+      <module name="BigDataJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.docusum" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -48,7 +77,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

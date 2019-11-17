@@ -190,10 +190,10 @@ class Base {
     }
 
     static void printLimitedSummary(PriorityQueue<SentenceRanking> sentences) {
-        System.out.println("enter a whole number (1-100)");
-        double percent = (new Scanner(System.in).nextDouble()) / 100;
 
-        int numToDisplay = (int) Math.rint(percent * sentences.size());
+        //double percent = (new Scanner(System.in).nextDouble()) / 100;
+
+        int numToDisplay = 5;
 
         for (int i = 0; i < numToDisplay; i++) {
             SentenceRanking item = sentences.peek();
